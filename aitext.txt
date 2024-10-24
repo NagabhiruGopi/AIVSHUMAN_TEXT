@@ -1,0 +1,12 @@
+read me file for ai text detection:
+import the libraries
+read the dataset
+visualize the data with matplot.lib
+show the sample data
+use natural language techniques for data processing
+remove puntchuations
+remove symbols,tags from the text
+import logistic regression model 
+pass the data to our model 
+perform cross validation
+test with new data
